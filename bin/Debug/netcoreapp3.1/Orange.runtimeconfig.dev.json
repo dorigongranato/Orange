@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Doriga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Doriga\\.nuget\\packages"
+    ]
+  }
+}
